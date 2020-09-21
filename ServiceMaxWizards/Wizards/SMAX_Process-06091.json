@@ -148,11 +148,11 @@
       "SVMXC__Process3__c": null,
       "SVMXC__Process3__r": null,
       "SVMXC__ProcessID__c": "PN-0000040372",
-      "SVMXC__Process__c": "a3Kn0000000ptH9EAI",
+      "SVMXC__Process__c": "SMAX_Process-03441",
       "SVMXC__Process__r": {
         "attributes": {
           "type": "SVMXC__ServiceMax_Processes__c",
-          "url": "/services/data/v48.0/sobjects/SVMXC__ServiceMax_Processes__c/a3Kn0000000ptH9EAI"
+          "url": "/services/data/v48.0/sobjects/SVMXC__ServiceMax_Processes__c/SMAX_Process-03441"
         },
         "ESMX_External_ID__c": "SMAX_Process-03441"
       },
